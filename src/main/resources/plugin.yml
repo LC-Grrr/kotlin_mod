@@ -1,8 +1,8 @@
-name: TestPlugin
+name: ChoidMod
 version: 1.0
-main: com.example.test.TestPlugin
+main: gg.choid.example.test.TestPlugin
 api-version: 1.20
-description: Super cool test plugin!
-author: Stephen
-contributors: [Brandon, Josh]
+description: Spit on that thang!
+author: Lena
+contributors: [Maxi]
 website: https://mcworkshop.org
